@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0; /* Black text */
+  --background-start-rgb: 255, 255, 255; /* White background */
+  --background-end-rgb: 255, 255, 255; /* White background */
+}
+
+/* dark color preference now - CHANGE TO WHITE LATER BY CHANGING BACKGROUND-START TO WHITE BACKGROUND */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 0, 0, 0; /* Black text */
+    --background-start-rgb: 0, 0, 0; /* Black background */
+    --background-end-rgb: 255, 255, 255; /* White background */
+  }
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: rgb(var(--background-start-rgb));
+}
+
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}

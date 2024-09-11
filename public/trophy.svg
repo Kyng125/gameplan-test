@@ -1,0 +1,27 @@
+<svg width="85" height="79" viewBox="0 0 85 79" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d_345_24)">
+<path d="M69.6464 22.884C69.3981 21.8514 68.4715 21.125 67.4113 21.125H57.7829C57.8061 19.9335 57.7932 18.8568 57.768 17.9649C57.7256 16.3044 56.3788 15 54.7168 15H30.3021C28.64 15 27.2932 16.3044 27.2454 17.9649C27.1404 18.8568 27.2072 19.9335 27.2359 21.125H17.6037C16.5435 21.125 15.6243 21.8514 15.3736 22.884C15.296 23.2094 13.4993 31.0016 18.5408 38.5334C22.117 43.8755 28.15 47.6281 36.4506 49.7689C38.2368 50.2288 39.4509 51.8802 39.4509 53.7282C39.4528 56.0088 37.5902 57.875 35.3073 57.875H34.8679C32.3357 57.875 30.2839 59.9317 30.2839 62.4688C30.2839 63.3144 30.9681 64 31.7263 64H53.0366C53.8806 64 54.4789 63.3144 54.4789 62.4688C54.4789 59.9317 52.4272 57.875 49.895 57.875H49.4514C47.1723 57.875 45.3096 56.0088 45.3096 53.7263C45.3096 51.8782 46.5237 50.2264 48.3099 49.767C56.6163 47.629 62.6473 43.8765 66.2197 38.5315C71.5186 31.0016 69.7228 23.2094 69.6464 22.884ZM22.394 36.0355C19.7252 32.0926 19.4902 27.9869 19.6211 25.7188H27.2999C27.8118 31.4246 29.2437 38.2654 32.8085 43.8162C28.1242 41.95 24.6378 39.3469 22.394 36.0355ZM62.6257 36.0355C60.3868 39.3469 56.9003 41.9452 52.2142 43.8086C55.777 38.2654 57.2098 31.4227 57.7161 25.7188H65.3948C65.4436 27.9869 65.2907 32.1021 62.6257 36.0355Z" fill="url(#paint0_angular_345_24)"/>
+</g>
+<defs>
+<filter id="filter0_d_345_24" x="0.6" y="0.6" width="83.8" height="77.8" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="7.2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.607843 0 0 0 0 0.388235 0 0 0 0 0.14902 0 0 0 0.5 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_345_24"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_345_24" result="shape"/>
+</filter>
+<radialGradient id="paint0_angular_345_24" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(42.5 39.5) rotate(48.8013) scale(36.8707 36.5466)">
+<stop stop-color="#FFF7AE"/>
+<stop offset="0.21" stop-color="#9B6326"/>
+<stop offset="0.38" stop-color="#FFF7AE"/>
+<stop offset="0.53" stop-color="#D3C175"/>
+<stop offset="0.65" stop-color="#FCEEC4"/>
+<stop offset="0.7" stop-color="#B78626"/>
+<stop offset="0.82" stop-color="#FFFACF"/>
+<stop offset="1" stop-color="#9B6326"/>
+</radialGradient>
+</defs>
+</svg>

@@ -1,0 +1,19 @@
+.custom-scrollbar::-webkit-scrollbar {
+    width: 2em;
+  }
+  
+  .custom-scrollbar::-webkit-scrollbar-thumb {
+    background-color: #D4BA64;
+    border-radius: 10px;
+    border: 2px solid #333; /* Matching the track color for the gap effect */
+  }
+  
+  .custom-scrollbar::-webkit-scrollbar-thumb:hover {
+    background-color: #FFC107;
+    cursor: pointer;
+  }
+  
+  .custom-scrollbar::-webkit-scrollbar-track {
+    background: #333;
+    border-radius: 10px;
+  }

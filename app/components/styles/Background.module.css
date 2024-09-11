@@ -1,0 +1,140 @@
+/* .container {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url("/public/tempbackground.svg");
+  background-size: cover;
+  background-position: center;
+}
+
+.questpgbg {
+  min-height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url("/public/questpagebackground.jpg");
+  background-size: cover;
+  background-position: center;
+} */
+
+/* <svg width="1440" height="3000" viewBox="0 0 1440 3000" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_f_588_6)">
+<path d="M836.274 316.562C836.274 491.394 646.605 633.124 412.637 633.124C178.669 633.124 -11 491.394 -11 316.562C-11 141.73 178.669 0 412.637 0C646.605 0 836.274 141.73 836.274 316.562Z" fill="#D4BA64" fill-opacity="0.65"/>
+<path d="M1590.21 1482.36C1493.47 1562.66 1255.39 1552.26 1058.45 1459.14C861.5 1366.01 780.269 1225.43 877.01 1145.13C973.752 1064.83 1211.83 1075.23 1408.78 1168.35C1605.72 1261.47 1686.95 1402.06 1590.21 1482.36Z" fill="#D4BA64" fill-opacity="0.5"/>
+<path d="M1503.7 2786.32C1499.05 2934.94 1295.29 3052.97 1048.59 3049.94C801.894 3046.91 605.675 2923.98 610.324 2775.35C614.973 2626.73 818.729 2508.7 1065.43 2511.73C1312.12 2514.76 1508.34 2637.7 1503.7 2786.32Z" fill="#D4BA64" fill-opacity="0.1"/>
+<path d="M1139.81 726.194C1103.87 756.019 1033.92 760.894 983.563 737.083C933.204 713.272 921.509 669.791 957.442 639.965C993.375 610.14 1063.33 605.265 1113.69 629.076C1164.05 652.888 1175.74 696.369 1139.81 726.194Z" fill="#D4BA64" fill-opacity="0.6"/>
+<path d="M404.544 977.774C378.306 999.552 328.703 1003.81 293.753 987.285C258.802 970.759 251.74 939.708 277.979 917.929C304.217 896.15 353.82 891.892 388.77 908.418C423.72 924.943 430.783 955.995 404.544 977.774Z" fill="#D4BA64" fill-opacity="0.55"/>
+<path d="M873.456 1945.71C808.876 1999.31 681.529 2007.3 589.019 1963.56C496.509 1919.82 473.867 1840.91 538.446 1787.3C603.026 1733.7 730.373 1725.71 822.883 1769.45C915.394 1813.19 938.036 1892.1 873.456 1945.71Z" fill="#D4BA64" fill-opacity="0.3"/>
+</g>
+<defs>
+<filter id="filter0_f_588_6" x="-214.1" y="-203.1" width="2048.2" height="3456.2" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="101.55" result="effect1_foregroundBlur_588_6"/>
+</filter>
+</defs>
+</svg> */
+
+/* boostbutton
+
+position: absolute;
+width: 137px;
+height: 37px;
+left: 201px;
+top: 208px; */
+
+/* Rectangle 39 */
+
+/* BOOST
+
+position: absolute;
+width: 91px;
+height: 26px;
+left: 232px;
+top: 214px;
+
+font-family: "Audiowide";
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+/* identical to box height */
+/* letter-spacing: 0.12em;
+
+color: #000000; */
+
+/* Vector
+
+position: absolute;
+left: 15.07%;
+right: 84.31%;
+top: 7.33%;
+bottom: 92.2%;
+
+background: #000000; */
+
+/* .crown {
+  position: absolute;
+  left: 29.24%;
+  right: 67.57%;
+  top: 6.93%;
+  bottom: 92.13%;
+
+  background: conic-gradient(
+    from 159.48deg at 50% 50%,
+    #fff7ae 0deg,
+    #9b6326 75.6deg,
+    #fff7ae 136.8deg,
+    #d3c175 190.8deg,
+    #fceec4 234deg,
+    #b78626 252deg,
+    #fffacf 295.2deg,
+    #9b6326 360deg
+  );
+} */
+
+.questpgbg {
+  padding: 2em;
+  background: 
+    url("data:image/svg+xml,%3Csvg width='1440' height='3000' viewBox='0 0 1440 3000' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cg filter='url(%23filter0_f_588_6)'%3E%3Cpath d='M836.274 316.562C836.274 491.394 646.605 633.124 412.637 633.124C178.669 633.124 -11 491.394 -11 316.562C-11 141.73 178.669 0 412.637 0C646.605 0 836.274 141.73 836.274 316.562Z' fill='%23D4BA64' fill-opacity='0.65'/%3E%3Cpath d='M1590.21 1482.36C1493.47 1562.66 1255.39 1552.26 1058.45 1459.14C861.5 1366.01 780.269 1225.43 877.01 1145.13C973.752 1064.83 1211.83 1075.23 1408.78 1168.35C1605.72 1261.47 1686.95 1402.06 1590.21 1482.36Z' fill='%23D4BA64' fill-opacity='0.5'/%3E%3Cpath d='M1503.7 2786.32C1499.05 2934.94 1295.29 3052.97 1048.59 3049.94C801.894 3046.91 605.675 2923.98 610.324 2775.35C614.973 2626.73 818.729 2508.7 1065.43 2511.73C1312.12 2514.76 1508.34 2637.7 1503.7 2786.32Z' fill='%23D4BA64' fill-opacity='0.1'/%3E%3Cpath d='M1139.81 726.194C1103.87 756.019 1033.92 760.894 983.563 737.083C933.204 713.272 921.509 669.791 957.442 639.965C993.375 610.14 1063.33 605.265 1113.69 629.076C1164.05 652.888 1175.74 696.369 1139.81 726.194Z' fill='%23D4BA64' fill-opacity='0.6'/%3E%3Cpath d='M404.544 977.774C378.306 999.552 328.703 1003.81 293.753 987.285C258.802 970.759 251.74 939.708 277.979 917.929C304.217 896.15 353.82 891.892 388.77 908.418C423.72 924.943 430.783 955.995 404.544 977.774Z' fill='%23D4BA64' fill-opacity='0.55'/%3E%3Cpath d='M873.456 1945.71C808.876 1999.31 681.529 2007.3 589.019 1963.56C496.509 1919.82 473.867 1840.91 538.446 1787.3C603.026 1733.7 730.373 1725.71 822.883 1769.45C915.394 1813.19 938.036 1892.1 873.456 1945.71Z' fill='%23D4BA64' fill-opacity='0.3'/%3E%3C/g%3E%3Cdefs%3E%3Cfilter id='filter0_f_588_6' x='-214.1' y='-203.1' width='2048.2' height='3456.2' filterUnits='userSpaceOnUse' color-interpolation-filters='sRGB'%3E%3CfeFlood flood-opacity='0' result='BackgroundImageFix'/%3E%3CfeBlend mode='normal' in='SourceGraphic' in2='BackgroundImageFix' result='shape'/%3E%3CfeGaussianBlur stdDeviation='101.55' result='effect1_foregroundBlur_588_6'/%3E%3C/filter%3E%3C/defs%3E%3C/svg%3E%0A")
+    no-repeat,
+    url("data:image/svg+xml,%3Csvg width='1440' height='3000' viewBox='0 0 1440 3000' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cg filter='url(%23filter0_f_588_6)'%3E%3Cpath d='M836.274 316.562C836.274 491.394 646.605 633.124 412.637 633.124C178.669 633.124 -11 491.394 -11 316.562C-11 141.73 178.669 0 412.637 0C646.605 0 836.274 141.73 836.274 316.562Z' fill='%23D4BA64' fill-opacity='0.65'/%3E%3Cpath d='M1590.21 1482.36C1493.47 1562.66 1255.39 1552.26 1058.45 1459.14C861.5 1366.01 780.269 1225.43 877.01 1145.13C973.752 1064.83 1211.83 1075.23 1408.78 1168.35C1605.72 1261.47 1686.95 1402.06 1590.21 1482.36Z' fill='%23D4BA64' fill-opacity='0.5'/%3E%3Cpath d='M1503.7 2786.32C1499.05 2934.94 1295.29 3052.97 1048.59 3049.94C801.894 3046.91 605.675 2923.98 610.324 2775.35C614.973 2626.73 818.729 2508.7 1065.43 2511.73C1312.12 2514.76 1508.34 2637.7 1503.7 2786.32Z' fill='%23D4BA64' fill-opacity='0.1'/%3E%3Cpath d='M1139.81 726.194C1103.87 756.019 1033.92 760.894 983.563 737.083C933.204 713.272 921.509 669.791 957.442 639.965C993.375 610.14 1063.33 605.265 1113.69 629.076C1164.05 652.888 1175.74 696.369 1139.81 726.194Z' fill='%23D4BA64' fill-opacity='0.6'/%3E%3Cpath d='M404.544 977.774C378.306 999.552 328.703 1003.81 293.753 987.285C258.802 970.759 251.74 939.708 277.979 917.929C304.217 896.15 353.82 891.892 388.77 908.418C423.72 924.943 430.783 955.995 404.544 977.774Z' fill='%23D4BA64' fill-opacity='0.55'/%3E%3Cpath d='M873.456 1945.71C808.876 1999.31 681.529 2007.3 589.019 1963.56C496.509 1919.82 473.867 1840.91 538.446 1787.3C603.026 1733.7 730.373 1725.71 822.883 1769.45C915.394 1813.19 938.036 1892.1 873.456 1945.71Z' fill='%23D4BA64' fill-opacity='0.3'/%3E%3C/g%3E%3Cdefs%3E%3Cfilter id='filter0_f_588_6' x='-214.1' y='-203.1' width='2048.2' height='3456.2' filterUnits='userSpaceOnUse' color-interpolation-filters='sRGB'%3E%3CfeFlood flood-opacity='0' result='BackgroundImageFix'/%3E%3CfeBlend mode='normal' in='SourceGraphic' in2='BackgroundImageFix' result='shape'/%3E%3CfeGaussianBlur stdDeviation='101.55' result='effect1_foregroundBlur_588_6'/%3E%3C/filter%3E%3C/defs%3E%3C/svg%3E%0A")
+    no-repeat,
+    linear-gradient(
+      180deg,
+      rgba(212, 186, 100, 0.2) 0%,
+      rgba(42, 42, 42, 0.2) 100%
+    );
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.rectangle {
+  background: conic-gradient(
+    from 172.92deg at 50% 50%,
+    #fff7ae 0deg,
+    #9b6326 75.6deg,
+    #fff7ae 136.8deg,
+    #d3c175 190.8deg,
+    #fceec4 234deg,
+    #b78626 252deg,
+    #fffacf 295.2deg,
+    #9b6326 360deg
+  );
+}
+
+.card {
+  border-radius: 2.5rem;
+}
+
+.quests {
+  max-width:10rem;
+}
+
+.text {
+  font-size: xx-small;
+  line-height: 1.5em;
+}
