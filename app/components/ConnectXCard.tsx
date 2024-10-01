@@ -8,7 +8,7 @@ import { auth, db } from "@/lib/firebaseConfig";
 import { useAuthState } from "react-firebase-hooks/auth";
 import Modal from "./Modal";
 import { signIn } from "next-auth/react";
-import "@solana/wallet-adapter-react-ui/styles.css";
+// import "@solana/wallet-adapter-react-ui/styles.css";
 import { audiowide } from "./fonts";
 import styles from "../components/styles/Background.module.css";
 
